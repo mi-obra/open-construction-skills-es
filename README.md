@@ -29,6 +29,7 @@ Por ahora la documentacion del repo toma como referencia este skill:
 | Skill | Descripcion |
 | ----- | ----------- |
 | `cronograma-preliminar-obra` | Crea un cronograma preliminar de obra en espanol a partir de una memoria descriptiva, alcance, computo, presupuesto o informacion parcial, con WBS/EAP, actividades, duraciones, esfuerzo, supuestos, riesgos y preguntas abiertas. |
+| `minuta-reunion-obra` | Skill existente en revisión; convierte notas o transcripciones de reuniones de obra en una minuta estructurada, sin definir todavía el estándar editorial principal. |
 
 Las demas carpetas de `skills/` existen hoy como material en revision y no definen el estandar editorial actual.
 
@@ -39,7 +40,9 @@ Las demas carpetas de `skills/` existen hoy como material en revision y no defin
 ```text
 .
 ├── skills/
-│   └── cronograma-preliminar-obra/
+│   ├── cronograma-preliminar-obra/
+│   │   └── SKILL.md
+│   └── minuta-reunion-obra/
 │       └── SKILL.md
 ├── scripts/
 │   └── validate_repo.py

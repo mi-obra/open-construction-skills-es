@@ -27,7 +27,8 @@ Directorios como `references/`, `templates/`, `examples/`, `evals/` y `scripts/`
 ## Estado actual del repo
 
 - El skill de referencia actual es `skills/cronograma-preliminar-obra/`.
-- El resto de las skills existentes no deben marcar el enfoque editorial del repo mientras se revisan.
+- `skills/minuta-reunion-obra/` existe como skill en revisión, pero no define
+  todavía el estándar editorial ni el skill canónico del repo.
 - La documentacion general debe describir primero el enfoque minimo y el skill activo, no un catalogo futuro.
 
 ## Validacion antes de cerrar un cambio
